@@ -32,7 +32,7 @@ Output Example
 Here is how the output of the game looks like:
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1158938715029241856/1210410752486416445/e278c1b1-e9c9-4e21-9db5-0905b68d47cd.png?ex=65ea75db&is=65d800db&hm=9fa73346a8cc151b835b0ebcf0010402e919a5606e1beea19b39e0af8c8b329d&=&format=webp&quality=lossless&width=578&height=473">
+  <img src="https://media.discordapp.net/attachments/1158938715029241856/1210410752486416445/e278c1b1-e9c9-4e21-9db5-0905b68d47cd.png?ex=65ea75db&is=65d800db&hm=9fa73346a8cc151b835b0ebcf0010402e919a5606e1beea19b39e0af8c8b329d&=&format=webp&quality=lossless&width=578&height=473" width="203 height="247">
 </p>
 
 ## Contributing
