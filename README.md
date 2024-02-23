@@ -17,6 +17,7 @@ Install the dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 To play the game, simply run the compressed.py/main.py file.
@@ -25,6 +26,7 @@ OR
 
 ```bash
 python3 compressed.py
+```
 
 Output Example
 Here is how the output of the game looks like:
